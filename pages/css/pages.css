@@ -9,21 +9,38 @@ body {
     -moz-osx-font-smoothing: grayscale;
     color: #333;
     line-height: 1.5em;
-    padding: 25px;
+    padding: 25px;}
+
+#geel{width: 200px;
+     height: 200px;
+     background-color: #F3E02C}
+
+#oranje{width: 200px;
+        height: 200px;
+        background-color: #F3A92C}
+
+#lichtgroen{width: 200px;
+            height: 200px;
+            background-color: #96F32C}
+
+#donkergroen{width: 200px;
+             height: 200px;
+             background-color:#2CF36E;}
+
+#groen{width: 200px;
+       height: 200px;
+       background-color:#4DD049}
+
+#roze{width: 200px;
+      height: 200px;
+      background-color: #E5348D}
 
 
-:root {
-    --Roze:#E5348D;
-    --Geel: #F3E02C;
-    --Oranje:  #F3A92C;
-    --lichtgroen: #96F32C;
-    --Donkergroen: #2cf36e;
-    --Groen: #4DD049 ;}
 
-<style>
-    .Geel {
-        background-color: #F3e02c;
-        padding: 10px;
-    } 
-    </style>
-/* Voeg jouw css hieraan toe */
+
+
+
+
+
+ 
+        
