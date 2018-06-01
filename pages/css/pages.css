@@ -53,12 +53,16 @@ body {
     Float: left;
     margin: 20px;}
 
+
     
 #ptsans {font-family: 'PT Sans', sans-serif;
-         font-size: 20px}
+         font-size: 20px;
+        clear: both;}
+         
 
 #bebas {font-family: 'bebas';
-        font-size: 20px; }
+        font-size: 20px;
+         }
 
 #caviardreams {font-family: 'caviar dreams',bold;
                font-size: 20px;}
