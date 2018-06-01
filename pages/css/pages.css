@@ -1,5 +1,6 @@
 font-family: 'PT Sans', sans-serif;
 
+
 body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: 400;
@@ -11,7 +12,9 @@ body {
     color: #333;
     line-height: 1.5em;
     padding: 25px;
-    background-color: lightskyblue;}
+   
+  
+    }
 
 #geel{width: 200px;
     height: 200px;
@@ -50,6 +53,73 @@ body {
     Float: left;
     margin: 20px;}
 
+    
+#ptsans {font-family: 'PT Sans', sans-serif;
+         font-size: 20px}
+
+#bebas {font-family: 'bebas';
+        font-size: 20px; }
+
+#caviardreams {font-family: 'caviar dreams',bold;
+               font-size: 20px;}
+
+#buttongeel {
+                background-color: #F3E02C;
+                border: none;
+                color: white;
+                padding: 15px 32px;
+                text-align: center;
+                text-decoration: none;
+                display: inline-block;
+                font-size: 16px;
+                Font-family: 'PT sans',sans-serif;
+                float: left;
+                margin: 20px;
+            }
+
+
+#buttonoranje {
+                background-color: #F3A92C;
+                border: none;
+                color: white;
+                padding: 15px 32px;
+                text-align: center;
+                text-decoration: none;
+                display: inline-block;
+                font-size: 16px;
+                Font-family: 'PT sans',sans-serif;
+                Float:left;
+                margin: 20px;
+
+            }
+
+#buttonlichtgroen {
+                background-color:#96F32C; ;
+                border: none;
+                color: white;
+                padding: 15px 32px;
+                text-align: center;
+                text-decoration: none;
+                display: inline-block;
+                font-size: 16px;
+                Font-family: 'PT sans',sans-serif;
+                Float:left;
+                margin: 20px;
+            }
+
+#buttondonkergroen {
+                background-color:#2CF36E;
+                border: none;
+                color: white;
+                padding: 15px 32px;
+                text-align: center;
+                text-decoration: none;
+                display: inline-block;
+                font-size: 16px;
+                Font-family: 'PT sans',sans-serif;
+                Float:left;
+                margin: 20px;
+}
 
 
 
